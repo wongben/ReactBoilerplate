@@ -1,1 +1,1 @@
-export * from './stadiumAction';
+export * from './stadiumActon';

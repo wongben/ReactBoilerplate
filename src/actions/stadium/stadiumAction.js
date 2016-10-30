@@ -5,4 +5,3 @@ import {
 
 export const fetchData = createAction(FETCH_DATA);
 export const showFailSpinner = createAction(FETCH_DATA);
-
